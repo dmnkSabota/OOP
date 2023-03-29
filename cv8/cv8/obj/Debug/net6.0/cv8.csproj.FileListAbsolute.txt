@@ -1,0 +1,15 @@
+C:\Users\domin\Desktop\3.rok\SEMESTER6\OOP\Cv8_231274_Sabota\cv8\cv8\bin\Debug\net6.0\cv8.exe
+C:\Users\domin\Desktop\3.rok\SEMESTER6\OOP\Cv8_231274_Sabota\cv8\cv8\bin\Debug\net6.0\cv8.deps.json
+C:\Users\domin\Desktop\3.rok\SEMESTER6\OOP\Cv8_231274_Sabota\cv8\cv8\bin\Debug\net6.0\cv8.runtimeconfig.json
+C:\Users\domin\Desktop\3.rok\SEMESTER6\OOP\Cv8_231274_Sabota\cv8\cv8\bin\Debug\net6.0\cv8.dll
+C:\Users\domin\Desktop\3.rok\SEMESTER6\OOP\Cv8_231274_Sabota\cv8\cv8\bin\Debug\net6.0\cv8.pdb
+C:\Users\domin\Desktop\3.rok\SEMESTER6\OOP\Cv8_231274_Sabota\cv8\cv8\obj\Debug\net6.0\cv8.csproj.AssemblyReference.cache
+C:\Users\domin\Desktop\3.rok\SEMESTER6\OOP\Cv8_231274_Sabota\cv8\cv8\obj\Debug\net6.0\cv8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\Desktop\3.rok\SEMESTER6\OOP\Cv8_231274_Sabota\cv8\cv8\obj\Debug\net6.0\cv8.AssemblyInfoInputs.cache
+C:\Users\domin\Desktop\3.rok\SEMESTER6\OOP\Cv8_231274_Sabota\cv8\cv8\obj\Debug\net6.0\cv8.AssemblyInfo.cs
+C:\Users\domin\Desktop\3.rok\SEMESTER6\OOP\Cv8_231274_Sabota\cv8\cv8\obj\Debug\net6.0\cv8.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\3.rok\SEMESTER6\OOP\Cv8_231274_Sabota\cv8\cv8\obj\Debug\net6.0\cv8.dll
+C:\Users\domin\Desktop\3.rok\SEMESTER6\OOP\Cv8_231274_Sabota\cv8\cv8\obj\Debug\net6.0\refint\cv8.dll
+C:\Users\domin\Desktop\3.rok\SEMESTER6\OOP\Cv8_231274_Sabota\cv8\cv8\obj\Debug\net6.0\cv8.pdb
+C:\Users\domin\Desktop\3.rok\SEMESTER6\OOP\Cv8_231274_Sabota\cv8\cv8\obj\Debug\net6.0\cv8.genruntimeconfig.cache
+C:\Users\domin\Desktop\3.rok\SEMESTER6\OOP\Cv8_231274_Sabota\cv8\cv8\obj\Debug\net6.0\ref\cv8.dll
